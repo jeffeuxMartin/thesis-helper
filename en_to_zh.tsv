@@ -1,17 +1,17 @@
-英文1	中文1	中文2	provider
-speech translation	語音翻譯  		建成
-attention	專注（機制）  		致強
-softmax	正規化指數函式  		致強
-cross-entropy	交叉熵  		致強
-loss function	減損函數  		致強
-sigmoid	Ｓ函數  		致強
-one-hot	獨一餘零  		致強
-ReLU	線性整流 (Rectified Linear)  		建成
-transformer	轉換器  		建成
-end-to-end	端對端	端到端     	建成
-cascaded	串接	串聯      	建成
-sequence-to-sequence	序列至序列	序列對序列     	建成
-dropout	丟棄正規化	丟棄演算法  	致強
-baseline 	基線 	 基本方法	致強
-token	字符	符記	致強
-character	字元		瑋聰
+英文1               	中文1                        	中文2       	provider
+speech translation  	語音翻譯                     	            	建成
+attention           	專注（機制）                 	            	致強
+softmax             	正規化指數函式               	            	致強
+cross-entropy       	交叉熵                       	            	致強
+loss function       	減損函數                     	            	致強
+sigmoid             	Ｓ函數                       	            	致強
+one-hot             	獨一餘零                     	            	致強
+ReLU                	線性整流 (Rectified Linear)  	            	建成
+transformer         	轉換器                       	            	建成
+end-to-end          	端對端                       	端到端      	建成
+cascaded            	串接                         	串聯        	建成
+sequence-to-sequence	序列至序列                   	序列對序列  	建成
+dropout             	丟棄正規化                   	丟棄演算法  	致強
+baseline            	基線                         	基本方法    	致強
+token               	字符                         	符記        	致強
+character           	字元                         	            	瑋聰
